@@ -1,0 +1,442 @@
+CRYPTOCURRENCY
+14 Bitcoin ETFs and Cryptocurrency Funds You Should Know
+The rapidly growing world of Bitcoin ETFs will now include futures-based cryptocurrency funds. Here are 14 ways to ride the crypto wave.
+by: Will Ashworth
+November 17, 2021
+November 16, 2021
+The frenzied buying and selling of cryptocurrencies remain unstoppable – and the hype will likely grow even further as several futures-based Bitcoin ETFs have come to life.
+The ProShares Bitcoin Strategy ETF started things off, launching on Oct. 19 under the symbol BITO. The SEC had been hesitant to approve Bitcoin ETFs prior to that – in July there were said to be as many as 13 applications waiting for the regulator's blessing.
+* Kip ETF 20: The Best Cheap ETFs You Can Buy
+"This is a milestone for the ETF industry," says Todd Rosenbluth, Head of ETF & Mutual Fund Research for independent investment analysis outfit CFRA.
+It's one that has been a long time in the making, too. As early as 2013, the Winklevoss twins, founders of the Gemini cryptocurrency exchange, looked to start a Bitcoin ETF but were unsuccessful.
+SEC Chair Gary Gensler has said in the past that he would prefer to see funds holding Bitcoin futures rather than the cryptocurrency itself. However, the launch of BITO and a second Bitcoin futures ETF in October suggested the SEC was perhaps also coming around to the idea of U.S.-listed ETFs holding "physical" Bitcoin.
+So much for that. In November, the commission rejected a VanEck spot Bitcoin ETF. Thus, ETFs that directly hold cryptocurrencies appear off the table (for now).
+Investors have plenty of other options, however. Here are 14 Bitcoin ETFs and other cryptocurrency funds available to investors today. We cover the new bitcoin futures ETFs, including a third fund launched in November. But the majority of these products either deal in equities that are somehow involved with cryptocurrencies, or in other types of exposure that have their own twists and turns.
+* How Do I Spend My Bitcoin? (And Where?)
+
+1 of 14
+ProShares Bitcoin Strategy ETF
+
+Courtesy of ProShares
+* Assets under management: $1.4 billion
+* Expense ratio: 0.95%
+The ProShares Bitcoin Strategy ETF (BITO, $40.17), which launched on Oct. 19, became the first U.S. ETF to provide investors with exposure to Bitcoin futures.
+The most important thing to note right off the bat is that BITO does not invest directly in Bitcoin, which provides as close to one-to-one exposure as you could want. Instead, it invests in cash-settled, front-month Bitcoin futures – contracts with the shortest time to maturity.
+The futures contracts that BITO invests in are regulated by the Commodity Futures Trading Commission. These contracts are only traded on the Chicago Mercantile Exchange and are subject to the rules of the CME.
+The ETF can also invest in U.S. Treasury Bills and Repurchase Agreements as short-term investment vehicles for cash positions, and it can also use leverage.
+Investors looking for context should know that BITO will moreso resemble the United States Oil Fund (USO), which also invests in futures and does not accurately track the price of oil, rather than "physical" ETFs such as the SPDR Gold Shares (GLD), which invest directly in the underlying asset to provide much more faithful price tracking.
+"Futures-based products do not necessarily replicate the performance of the underlying market and incur costs as the asset manager rolls forward the contracts it uses," Rosenbluth says.
+Nonetheless, BITO's approval is a milestone for the ETF industry.
+"A bitcoin ETF helps ratify cryptos relevancy in today’s economy," says Chris Kline, COO and co-founder of Bitcoin IRA. "It opens up a potential new batch of buyers who are more comfortable with ETF’s and makes digital assets more appealing. It brings in a new class of investors, who are more comfortable in traditional finance, into the fold of cryptocurrencies. It is an exclamation point on the adoption of digital assets that we’ve seen in 2021."
+An exclamation point indeed. BITO has already amassed $1.4 billion in assets in less than a month of existence.
+2 of 14
+Valkyrie Bitcoin Strategy ETF
+
+Courtesy of Valkyrie Investments
+* Assets under management: $59.2 million
+* Expense ratio: 0.95%
+The Valkyrie Bitcoin Strategy ETF (BTF, $25.01) launched three days after ProShares' Bitcoin futures ETF went public.
+BTF itself is very similar to BITO in that it does not invest directly in Bitcoin, but in front-month Chicago Mercantile Exchange Bitcoin futures through a Cayman Islands subsidiary, so investors don't have to file K-1 forms with the IRS. The Commodity Futures Trading Commission regulates the trades.
+Valkyrie – a Tennessee-based alternative asset manager with years of experience in traditional and digital asset management – already offers trusts for various cryptocurrencies, including Bitcoin, Polkadot, Algorand and others, but BTF is its first cryptocurrency ETF. That said, the company believes it can launch additional futures-based Bitcoin ETFs in the weeks to come.
+However, while BITO was a smash hit right out of the gate, the actively managed BTF has accumulated less than $60 million in AUM, according to Morningstar data.
+Valkyrie isn't fazed by the slow start.
+"We believe that demand is strong enough to bring two or three Bitcoin futures ETFs to roughly the same AUM given enough time, and then investors will ultimately decide which firm best fits their values and they'll eventually pull ahead of the pack," Valkyrie CEO Leah Wald told Yahoo Finance Live.
+Skip advert
+Advertisement
+3 of 14
+VanEck Bitcoin Strategy ETF
+
+Courtesy of VanEck
+
+
+Assets under management: $9.6 million
+* Expense ratio: 0.65%
+The VanEck Bitcoin Strategy ETF (XBTF, $60.69) launched its first U.S.-listed Bitcoin-linked ETF on Nov. 15, and it enters the field as the low-cost leader among Bitcoin futures ETFs at 0.65% in expenses.
+Greg Krenzer, VanEck's Head of Active Trading, is the ETF's portfolio manager, and boasts more than two decades of trading experience, which includes futures. That's good, because XBTF – like the other Bitcoin-linked ETFs that have launched over the past couple months – invests in Bitcoin futures listed on the CME.
+"While a 'physically backed' bitcoin ETF remains a key goal, we are very pleased to be providing investors with this important tool as they build their digital asset portfolios," says Kyle DaCruz, Director, Digital Assets Product at VanEck.
+It's not the first VanEck ETF with exposure to Bitcoin, however. The company launched the VanEck Inflation Allocation ETF (RAAX) in April 2018. The fund invests in other ETFs that invest in real assets such as real estate, gold, oil … and even Bitcoin, via a Canadian-listed ETF that owns the actual cryptocurrency. However, it has failed to make much of a dent in the marketplace, gathering just $25.7 million in assets across more than three years of existence.
+XBTF, at least so far, is on track to accumulate much more, with just less than $10 million in assets after its first day of trading.
+Learn more about XBTF at the VanEck provider site.
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+4 of 14
+Grayscale Bitcoin Trust 
+
+Grayscale Bitcoin Trust
+Skip advert
+Advertisement
+* Assets under management: $42.0 billion
+* Expense ratio: 2.00%
+The Grayscale Bitcoin Trust (GBTC, $51.18) is one of a handful of ETF-esque funds that are nonetheless not ETFs, nor mutual funds, for that matter. Instead, it is what's described as a closed-end grantor trust. This means that it issues a fixed number of shares when it goes public, and then those shares are traded "over-the-counter" (OTC).
+GBTC shares are intended to follow the price of Bitcoin based on the CoinDesk Bitcoin Price Index. At the moment, each share of the Grayscale Bitcoin Trust represents 0.00093535 bitcoins, but that number isn't fixed. That's because, unlike an ETF, closed-end trusts such as GBTC can trade at a discount or premium to their underlying assets.
+That has been the case with GBTC ever since its launch (as the Bitcoin Investment Trust) in 2013. Today, the Grayscale Bitcoin Trust trades at a 14% discount to the NAV of the bitcoins held by the Trust, meaning you were effectively buying bitcoins for 86 cents on the dollar. At the other end of the spectrum, it traded at a 40% premium in December 2020.
+Grayscale Investments manages more than $38 billion in digital currency assets, with bitcoins representing most of those assets.
+Investors concerned about fees might not like the fact the trust charges a 2% management fee. That's sky-high compared to an average fee of 0.53% for ETFs, and still lofty compared to the average fee of 1.42% for mutual funds.
+However, when you consider that it can cost as much as 1.49% to buy or sell bitcoins directly, and the average holding time for Coinbase buyers and sellers is 53 days, the argument against high fees isn't nearly as clear-cut.
+One last thing to note: Grayscale Investments hired David LaValle as its global head of ETFs. He will be in charge of Grayscale's attempt to convert GBTC from a trust into an ETF at some point. Because of how ETFs are structured, a conversion would most likely eliminate the premium/discount issue.
+Learn more about GBTC at the Grayscale provider site.
+* 7 Great Growth ETFs to Get Your Portfolio Going
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+5 of 14
+Amplify Transformational Data Sharing ETF
+
+Courtesy of Amplify ETFs
+Skip advert
+Advertisement
+* Assets under management: $1.7 billion 
+* Expense ratio: 0.71%
+The Amplify Transformational Data Sharing ETF (BLOK, $60.62) is similar to many U.S. cryptocurrency ETFs in that it is primarily invested in equities, but it does have a sneaky way of providing a little more "direct" exposure.
+BLOK is an actively managed fund that aims to invest at least 80% of its assets in companies that are involved in developing blockchain technologies, and/or using them for their own business.
+The ETF has 47 holdings, the top 10 of which account for about 45% of assets. Included in that number are MicroStrategy (MSTR), the data analytics software company that's become more known for its Bitcoin investments than its existing business; Bitcoin miners such as Marathon Digital (MARA) and Hut 8 Mining (HUT); and Coinbase Global (COIN), one of the world's leading cryptocurrency exchanges that went public in April.
+However, a few interesting holdings are found outside of the top 10. Specifically, BLOK invests in the Purpose Bitcoin ETF (two listings, one in Canadian dollars, and one in U.S. dollars), as well as the 3iQ CoinShares Bitcoin ETF – all of which are Canadian ETFs that directly track Bitcoin.
+Breaking down the blockchain industry allocation, BLOK's top three are crypto miners (28%), venture capital (10%), and exposure (10%). Exposure represents the three ETFs mentioned in the previous paragraph.
+BLOK is also diversified across size: 45% of assets are large-cap stocks or ETFs, 21% are mid-cap and 33% are small-cap or unclassified. That makes for an average market cap of $7.9 billion. 
+Learn more about BLOK at the Amplify provider site.
+* 9 Hot Upcoming IPOs to Watch For in the Rest of 2021
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+6 of 14
+Bitwise 10 Crypto Index Fund
+
+Courtesy of Bitwise
+Skip advert
+Advertisement
+* Assets under management: $1.2 billion
+* Expense ratio: 2.50%
+The Bitwise 10 Crypto Index Fund (BITW, $49.74), launched in 2017, tracks the performance of the Bitwise 10 Large Cap Crypto Index, representing the 10 largest investable cryptocurrencies. These 10 cryptocurrencies account for 70% of the total crypto market.
+Because BITW is weighted by market capitalization, Bitcoin accounts for 65% of the portfolio. That's more than double Ethereum, at 25%. Cardano is a distant third at 4%.
+BITW only became available over-the-counter in December 2020. It began trading with just $120 million in assets – less than a year later, it has 10 times that, indicating just how popular these instruments have become.
+Its press release announcing its OTC availability explained how it works relative to an open-ended mutual fund or ETF.
+"The Bitwise 10 Crypto Index Fund is an open-ended, publicly traded statutory trust, not an exchange-traded fund or closed-end fund," Bitwise Asset Management stated in December 2020. "Accredited investors may create shares of the Fund at net asset value (NAV) through private placement. Those restricted shares may then become eligible for public sale after a 12-month holding period."
+While the Bitwise 10 Crypto Index Fund is built differently than GBTC, it can still sell at a premium or discount to the net asset value per share. BITW currently trades at a steep 22% discount to NAV.
+Learn more about BITW at the Bitwise provider site.
+* Should You Invest in Crypto?
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+7 of 14
+Siren Nasdaq NexGen Economy ETF
+
+Courtesy of SirenETFs
+Skip advert
+Advertisement
+* Assets under management: $309.6 million
+* Expense ratio: 0.68%
+The Siren Nasdaq NexGen Economy ETF (BLCN, $50.65) is a passively managed (read: index) ETF that tracks the performance of the Nasdaq Blockchain Economy Index, which is made up of stocks that support blockchain technology or utilize it for their own businesses.
+BLCN, launched in January 2018, has 63 holdings. The index starts with all companies larger than $200 million in market cap that exhibit "blockchain company" characteristics. It then assigns them a "blockhain score" – the index's proprietary screening methodology that scores each company based on their ability to benefit from blockchain technologies.
+The ETF is reasonably diversified. The top 10 holdings account for just 20% of its overall assets. Silvergate Capital (SI) – which provides loans and banking services to companies related to cryptocurrencies, the blockchain and fintech – is the largest holding with a weighting of 2.6%. Silvergate provides loans and banking services to companies related to cryptocurrencies, the blockchain, and fintech.
+The top three sectors are technology (43%), financials (33%) and communications (11%). And BLCN is very much a "global" fund – the U.S. accounts for 53% of assets, with the rest coming from other nations including Japan (13%) and China (13%).
+Learn more about BLCN at the SirenETFs provider site.
+* Crypto vs. Forex Trading: What You Need to Know
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+8 of 14
+First Trust Indxx Innovative Transaction & Process ETF
+
+Courtesy of First Trust
+Skip advert
+Advertisement
+* Assets under management: $142.0 million
+* Expense ratio: 0.65%
+The First Trust Indxx Innovative Transaction & Process ETF (LEGR, $44.50) is another equity-based cryptocurrency ETF, one that launched in 2018. It tracks the performance of the Indxx Blockchain Index, an index that follows companies that have some connection to blockchain technologies – and it has an interesting weighting methodology.
+LEGR's index takes all available blockchain companies and ensures that each holding meets specific size, liquidity and trading minimums. It then applies a score of 1 for companies actively developing blockchain technology, 2 for companies actively using blockchain technology, and 3 for companies actively exploring blockchain technology.
+The index then only includes companies scoring 1 or 2, giving 50% of the weighting to firms scoring 1, and 50% to those scoring 2. Companies scoring 3 are excluded altogether. The portfolio is capped at 100 stocks, and the index is rebalanced and reconstituted twice a year.
+The ETF's top three sectors are financials (39%), technology (32%), and consumer discretionary (9%). The top three countries are the U.S. (34%), China (12%), and India (7%). This also is a large-cap-heavy fund, with a median market cap of almost $94 billion.
+Learn more about LEGR at the First Trust provider site.
+* The 15 Best Technology ETFs to Buy for Stellar Gains
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+9 of 14
+Simplify US Equity PLUS GBTC ETF 
+
+Courtesy of Simplify ETFs
+Skip advert
+Advertisement
+* Assets under management: $121.7 million
+* Expense ratio: 0.50%
+The Simplify US Equity PLUS GBTC ETF (SPBC, $29.45) offers very diluted exposure to Bitcoin, but that's by design.
+This fund, which launched at the end of May, has already gathered more than $100 million in assets by "giving it 110 percent." That is, SPBC manages to provide a 100% investment in equities along with an additional 10% exposure to Bitcoin.
+How does Simplify do it?
+Most of SPBC's market exposure is achieved through holding the iShares Core S&P 500 ETF (IVV), which is one of the major S&P 500 ETFs. However, it also invests a little of its assets into E-mini S&P 500 Futures, which provides much more exposure to the broader market than the ETF can provide. That allows it to invest an additional 10% to a maximum 15% in the Grayscale Bitcoin Trust, which we discussed earlier in this article.
+For decades, allocation funds have acted as a "portfolio in a can," providing investors with bond and stock exposure in a single product. Consider SPBC a more modern iteration of that for people who believe it's important to be invested in both the stock market and cryptocurrencies.
+Learn more about SPBC at the Simplify provider site.
+* New PINK Healthcare ETF Will Donate Fees to Cancer Research
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+10 of 14
+Bitwise Crypto Industry Innovators ETF 
+
+Courtesy of Bitwise
+Skip advert
+Advertisement
+* Assets under management: $141.2 million
+* Expense ratio: 0.85%
+Bitwise Crypto Industry Innovators ETF (BITQ, $32.88) is another equity-focused cryptocurrency ETF. This index fund tracks the performance of the Bitwise Crypto Innovators 30 Index, created by Bitwise Index Services LLC, which is an affiliate of Bitwise Asset Management – the world's largest crypto index fund manager.
+To make it into the index, a company must generate at least 75% of revenues from the cryptocurrency ecosystem, or have 75% of their net holdings in Bitcoin or some other liquid crypto asset. These are considered "crypto innovators" and account for 85% of the index holdings. The remaining 15% of the fund is made up of non-Innovators that are at least $10 billion in market cap and either have a dedicated business initiative focused on the crypto ecosystem, or hold at least $100 million in Bitcoin, Ethereum or another liquid crypto asset.
+BITQ, which launched on May 21, has 30 holdings, as the name of the benchmark implies.
+The argument for buying this new ETF is three-fold: It gives you exposure to the crypto market without owning crypto assets directly; it gives you exposure to the companies building the crypto infrastructure such as Bitcoin miners, trading platforms, etc.; and lastly, it gives you a piece of global cryptocurrency players such as Coinbase. 
+BITQ carries many of the same stocks as the other funds on this list – names like MicroStrategy, Galaxy Digital (BRPHF) and Silvergate. But because of the concentrated nature of the 30-stock portfolio, the top 10 stocks account for a massive 64% of assets.
+If you have real conviction in the cryptocurrency movement, BITQ is one of the best equity ETFs you can use to express it.
+Learn more about BITQ at the Bitwise provider site.
+* 3 Uranium ETFs That Pack a Nuclear Punch
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+11 of 14
+Global X Blockchain ETF
+
+Courtesy of Global X
+Skip advert
+Advertisement
+* Assets under management: $114.4 million
+* Expense ratio: 0.50%
+The Global X Blockchain ETF (BKCH, $36.81) looks to invest in companies that benefit from the global blockchain solutions market, which IDC believes could surpass $19 billion by 2024.
+BKCH tracks the performance of the Solactive Blockchain Index, a collection of stocks that have operations that utilize or benefit from digital assets and blockchain technologies. It divides the companies into three groups: 1.) "pure-play" stocks that derive at least 50% of revenues from blockchain activities; 2.) "pre-revenue" firms whose primary business is in blockchain technology but don't yet generate revenue; and 3.) "diversified" companies that generate less than 50% of revenues from blockchain activities.
+The index is weighed by free float market cap, but it also has a few rules it enforces at each rebalancing. No component can account for more than 12% of the portfolio and no less than 0.3%. All stocks with a weighting of greater than 4.5% can't collectively account for more than 45% of the portfolio, with the remainder capped at 4.5%. And pre-revenue firms and diversified companies can't make up more than 10% of the firm collectively, and individually can't be weighted any more than 2%.
+Technology is BKCH's largest sector by far, at 72% of assets, followed by financials (15%) and communication services (7%). The U.S., Canada, and China account for almost 92% of the portfolio. Marathon Digital is the largest holding with a weighting of more than 17%, followed by Coinbase at a little more than 12%; at those weights, both stocks would have to be trimmed down to the 12% limit at the next rebalancing.
+Learn more about BKCH at the Global X provider site. 
+* How Is Cryptocurrency Taxed? Here's What You Need to Know
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+12 of 14
+VanEck Digital Transformation ETF 
+
+Courtesy of VanEck
+Skip advert
+Advertisement
+* Assets under management: $75.0 million
+* Expense ratio: 0.50%
+The VanEck Digital Transformation ETF (DAPP, $32.62) is another newer cryptocurrency ETF launched in April 2021, which helps to explain why assets are still on the low side.
+DAPP tracks the performance of the MVIS Global Digital Assets Equity Index, which invests in companies participating in the digital assets economy. Holdings are believed to have the potential to generate at least half of their annual revenue from digital assets. And like BITQ, this is a focused portfolio with just 25 holdings; the top 10 account for 64% of total assets.
+Three-quarters of the portfolio is invested in technology stocks, with most of the rest invested in financials and a tiny remainder allocated to cash. It's another global fund, too, with the U.S. at 62% of assets, followed by Canada (14%), China (13%) and a smattering of other countries.
+This is a small portfolio, but one that's well diversified among stocks of all sizes. Companies $5 billion and larger account for 24% of the fund's assets, those between $1 billion and $5 billion account for 45%, and sub-$1 billion firms account for the remaining 31%.
+DAPP's 0.50% expense ratio is reasonable in relation to most existing cryptocurrency ETFs.
+Learn more about DAPP at the VanEck provider site.
+* 13 Commodity ETFs to Ease Inflation Worries
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+13 of 14
+Bitcoin Strategy ProFund Investor
+
+Courtesy of ProFunds
+Skip advert
+Advertisement
+* Assets under management: $29.5 million
+* Expense ratio: 1.15%
+You might not have heard about it, but a Bitcoin futures mutual fund came to life a few months before BITO.
+The Bitcoin Strategy ProFund Investor (BTCFX, $38.77), launched in late July, seeks capital appreciation by investing in Bitcoin futures contracts. It also can invest in Canadian ETFs that invest in Bitcoin directly, and if it wants, it can invest in money market instruments such as U.S. Treasuries.
+BTCFX features a low $1,000 minimum initial purchase, as well as a moderate 1.15% expense ratio. Worth noting is that 31 basis points of those fees are interest expenses related to borrowing done by the managers as part of its strategy. (A basis point is one one-hundredth of a percentage point.)
+Suppose you're looking to bet on Bitcoin but don't want to own it directly. Then, BTCFX is a way to gain exposure while leaving the heavy lifting to professional investors.
+ProFunds was founded in 1997 with the premise that leverage, when used correctly, can magnify gains. But investors should know that the techniques practiced by its managers are high-risk, high-reward – they're not for novice investors.
+Learn more about BTCFX at the ProFunds provider site.
+* 10 Tantalizing International ETFs to Buy
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+14 of 14
+First Trust SkyBridge Crypto Industry and Digital Economy ETF 
+
+Courtesy of First Trust
+Skip advert
+Advertisement
+* Assets under management: $43.4 million
+* Expense ratio: 0.85%
+The First Trust SkyBridge Crypto Industry and Digital Economy ETF (CRPT, $25.60) seeks to invest in companies driving innovation in the cryptocurrency world and digital economy. It's also a newer fund, launching just a couple months ago, on Sept. 20.
+CRPT plans to invest at least 80% of net assets in "crypto industry companies" and "digital economy companies," with at least 50% of assets going toward the former.
+The ETF is sub-advised by SkyBridge Capital II LLC, an alternative investment manager founded by Anthony Scaramucci, the one-time White House communications director for Donald Trump. 
+"We believe that cryptocurrency adoption represents the biggest macro trend since the commercialization of the internet, and we are excited to offer investors access to a portfolio of the leading companies in this eco-system," Scaramucci said in the ETF's press release announcing its launch.
+This First Trust fund is similar to a few of the other Bitcoin ETFs on this list in that it has a concentrated portfolio of 30 holdings, with the top 10 accounting for 60% of assets. Top names such as Marathon Digital, Coinbase and MicroStrategy should be familiar at this point, too. The top industries by weight are software (35%), capital markets (24%) and IT services (15%). And the median market cap is about $4.6 billion, with CRPT spreading its assets across firms of all sizes.
+Learn more about CRPT at the First Trust provider site.
+* 7 REIT ETFs for Every Type of Investor
+Skip advert
+Advertisement
+SPONSORED CONTENT
+READ: 
+* Kiplinger’s Latest Online Broker Rankings
+* Advertisement
+* Advertisement
+Skip advert
+Advertisement - Article continues below
+Skip advert
+Advertisement - Article continues below
+* ETFS
+* CRYPTOCURRENCY
+Share via EmailShare on FacebookShare on TwitterShare on LinkedIn
+Advertisement
+Skip advert
+Advertisement
+Skip advert
+Advertisement
+Skip advert
+Advertisement
+Skip advert
+Advertisement
+Recommended
+3 Infrastructure ETFs to Harness the Spending Boom
+
+ETFS
+3 Infrastructure ETFs to Harness the Spending Boom
+President Joe Biden has signed a $1.2 trillion infrastructure bill into law. These infrastructure ETFs should benefit as a result.
+November 17, 2021
+November 16, 2021
+3 Online Retail ETFs for Your Shopping List
+
+ETFS
+3 Online Retail ETFs for Your Shopping List
+Online spending's share of holiday retail sales might take a small step back in 2021, but for these three retail ETFs, the long-term trend is still th…
+November 17, 2021
+November 16, 2021
+Cryptocurrency and the Wash Sale Rule: A Tax Loophole That May Soon Go Away
+
+CAPITAL GAINS TAX
+Cryptocurrency and the Wash Sale Rule: A Tax Loophole That May Soon Go Away
+For now, cryptocurrency investors don’t have to worry about the wash sale rule. But the days of selling and immediately repurchasing virtual currencie…
+November 13, 2021
+November 12, 2021
+14 Best Index Funds for a Low-Priced Portfolio
+
+ETFS
+14 Best Index Funds for a Low-Priced Portfolio
+Exchange-traded funds are growing in popularity thanks to their low fees and wider diversity of stock selections. Here are 14 index funds that stand o…
+November 10, 2021
+November 9, 2021
+Most Popular
+Your Guide to Roth Conversions
+Special Report
+TAX BREAKS
+Your Guide to Roth Conversions
+A Kiplinger Special Report
+February 26, 2021
+February 25, 2021
+The Berkshire Hathaway Portfolio: All 41 Warren Buffett Stocks Ranked
+
+STOCKS
+The Berkshire Hathaway Portfolio: All 41 Warren Buffett Stocks Ranked
+The Berkshire Hathaway portfolio is a diverse set of blue chips, and increasingly, lesser-known growth bets. Here's a look at every stock picked by Wa…
+November 16, 2021
+November 16, 2021
+The Case Against Owning All Dividend-Paying Stocks in Retirement
+
+INVESTING
+The Case Against Owning All Dividend-Paying Stocks in Retirement
+Income investors are often all about dividends, but that may not be a smart strategy for retirees. Here’s why, and what investment model they should c…
+November 9, 2021
+November 8, 2021
+
+* Customer Service
+* About Us
+* Advertise With Us (PDF)
+* Privacy Policy
+* Cookie Policy
+* Kiplinger Careers
+* Accessibility
+* Privacy Preferences
+Subscribe to Kiplinger's Personal Finance
+Be a smarter, better informed investor.
+Save up to 76%Subscribe to Kiplinger's Personal Finance
+Do Not Sell My Information
+The Kiplinger Washington Editors, Inc., is part of the Dennis Publishing Ltd. Group.
+All Contents © 2021, The Kiplinger Washington Editors
+Dennis is part of Future Plc, an international media group and leading digital publisher. Visit our corporate site http://futurenet.com/
+Follow us on InstagramFollow us on FacebookFollow us on TwitterConnect on LinkedInConnect on YouTube
+Advertisement
+
+
+
